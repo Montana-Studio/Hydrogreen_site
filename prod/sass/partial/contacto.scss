@@ -1,0 +1,27 @@
+.top_contact_info {
+	#mobile_nav_icon {
+		border-bottom: 9px double $color_blue_2;
+		border-top: 3px solid $color_blue_2;
+	}
+}
+.wpcf7-form {
+	.wpcf7-form-control {
+		&.wpcf7-submit {
+			border:0;
+			width: 100%;
+			padding:10px 0;
+			&:hover {
+				background: $color_blue_1;
+			}
+		}
+	}
+}
+#main_menu {
+	li {
+		&:last-child {
+			a {
+				padding:{right:0 !important;}
+			}
+		}
+	}
+}
