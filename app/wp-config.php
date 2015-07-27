@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'Hydrogreen');
+define('DB_NAME', 'hydrogre_main');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'hydrogre_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'z7}&!1HIlm5=');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
