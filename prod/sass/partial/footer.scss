@@ -1,0 +1,18 @@
+.footer_bar {
+	.footer_before_widget {
+		@include gridle_state(phoness-min) {
+			margin:0;
+		}
+	}
+	#footer_before_widget_text {
+		@include gridle_state(phoness-min) {
+			margin:{bottom:0;}
+		}
+	}
+	#footer {
+		display: none;
+	}
+	.footer_bar_wrapper  {
+		margin:{top:0;}
+	}
+}
