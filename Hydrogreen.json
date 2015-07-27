@@ -1,0 +1,26 @@
+{
+  "name": "Hydrogreen Sitio",
+  "title": "Hydrogreen",
+  "description": "Best project ever.",
+  "version": "0.1.0",
+  "homepage": "http://www.Hydrogreen.com/",
+  "author": {
+    "name": "Montana Studio",
+    "email": "mauro@montana-studio.com",
+    "url": "http://www.montana-studio.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mediatrends/Hydrogreen_site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mediatrends/Hydrogreen/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.Hydrogreen.com//blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": []
+}

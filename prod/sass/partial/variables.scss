@@ -1,0 +1,51 @@
+$color_green_1: #7fb723; // VERDE CLARO 
+$color_green_2: #689d45; // VERDE OSCURO
+$color_green_3: #187c54; // VERDE OSCURO
+
+$color_blue_1: #117cc4; // CELESTE
+$color_blue_2: #0b5db3; // AZUL CLARO
+$color_blue_3: #064380; // AZUL OSCURO
+
+$color_blue_4: #005491; //FONT BLUE COLOR
+
+$font_sans: 'Montserrat';
+
+//MEDIA QUERIES
+$bp-smalless : 320px;
+$bp-meddies : 480px;
+$bp-md  : 600px;
+$bp-large : 800px;
+$bp-largess : 1024px;
+$bp-xl : 1140px;
+$bp-xxl : 1440px;
+
+//MOBILE FIRST
+@include gridle_register_state( phoness-min, (
+    screen and (min-width : $bp-smalless) and (max-width:$bp-meddies)
+) );
+
+@include gridle_register_state( phoness, (
+    screen and (max-width : $bp-large)
+) );
+
+@include gridle_register_state( tabless-md, (
+    screen and (min-width : $bp-md) and (max-width:$bp-largess)
+) );
+
+@include gridle_register_state( tabless-min, (
+    screen and (min-width : $bp-large) and (max-width:$bp-largess)
+) );
+
+@include gridle_register_state( tabless, (
+  screen and (min-width : $bp-largess)
+) );
+
+@include gridle_register_state( notebook-min, (
+  screen and (min-width : $bp-xl) and (max-width:$bp-xxl)
+) );
+
+@include gridle_register_state( desktopess, (
+   screen and (min-width : $bp-xxl)
+) );
+
+@include gridle_register_state(webkit_brw, (screen and (-webkit-min-device-pixel-ratio:0)));

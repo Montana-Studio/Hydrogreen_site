@@ -1,0 +1,35 @@
+{
+  "name": "gridle",
+  "version": "1.3.40",
+  "authors": [
+    "Olivier Bossel <olivier.bossel@gmail.com>"
+  ],
+  "description": "Gridle Gridle grid system",
+  "keywords": [
+    "gridle",
+    "grid",
+    "system",
+    "scss",
+    "sass",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://gridle.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.3.40",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.3.40",
+    "commit": "719b45be820167f30ff2d130364069a99669eff3"
+  },
+  "_source": "git://github.com/olivierbossel/gridle.git",
+  "_target": "~1.3.40",
+  "_originalSource": "gridle",
+  "_direct": true
+}

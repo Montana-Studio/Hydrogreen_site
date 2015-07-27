@@ -1,0 +1,49 @@
+.ppb_title {
+	color:$color_blue_2;
+	span  {
+		color:$color_green_2;
+		font:{family:'Karla' !important;} 
+	}
+}
+.post_wrapper {
+	.post_content_wrapper {
+		.post_header_title {
+			display: none;
+		}	
+	}	
+}
+.blog_grid_content {
+	.post_header {
+		&.grid {
+			h6 {
+				text:{align:center;transform:uppercase;}
+				a {
+					font:{size:18px;}
+					color:$color_blue_2;
+				}
+			}
+			.post_detail {
+				display: none;
+			}
+			
+		}
+	}
+	p {
+		display: none !important;
+	}
+}
+.mobile_menu_wrapper {
+	.menu-menu-principal-container {
+
+	}
+	padding:{left:20px;}
+}
+
+.text-titulo-slider {
+	@include gridle_state(phoness-min) {
+	}
+}
+.text-bajada-slider {
+	@include gridle_state(phoness-min) {
+	}
+} 

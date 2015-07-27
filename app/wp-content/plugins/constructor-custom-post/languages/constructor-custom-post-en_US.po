@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-15 18:56+0700\n"
+"PO-Revision-Date: 2015-07-15 18:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../constructor-custom-post.php:25
+msgid "Add New Gallery"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:26
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../constructor-custom-post.php:27
+msgid "New Gallery"
+msgstr ""
+
+#: ../constructor-custom-post.php:28
+msgid "View Gallery"
+msgstr ""
+
+#: ../constructor-custom-post.php:29
+msgid "Search Gallery"
+msgstr ""
+
+#: ../constructor-custom-post.php:30
+msgid "No Gallery found"
+msgstr ""
+
+#: ../constructor-custom-post.php:31
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../constructor-custom-post.php:53
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:54
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:55
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:56
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../constructor-custom-post.php:57
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:58
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:59
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:60
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../constructor-custom-post.php:72
+#, fuzzy
+msgid "Add New Project"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:73
+msgid "Edit Project"
+msgstr ""
+
+#: ../constructor-custom-post.php:74
+msgid "New Project"
+msgstr ""
+
+#: ../constructor-custom-post.php:75
+msgid "View Project"
+msgstr ""
+
+#: ../constructor-custom-post.php:76
+msgid "Search Projects"
+msgstr ""
+
+#: ../constructor-custom-post.php:77
+msgid "No Project found"
+msgstr ""
+
+#: ../constructor-custom-post.php:78
+msgid "No Project found in Trash"
+msgstr ""
+
+#: ../constructor-custom-post.php:100
+msgid "Search Project Sectors"
+msgstr ""
+
+#: ../constructor-custom-post.php:101
+msgid "All Project Sectors"
+msgstr ""
+
+#: ../constructor-custom-post.php:102
+msgid "Parent Project Sector"
+msgstr ""
+
+#: ../constructor-custom-post.php:103
+msgid "Parent Project Sector:"
+msgstr ""
+
+#: ../constructor-custom-post.php:104
+msgid "Edit Project Sector"
+msgstr ""
+
+#: ../constructor-custom-post.php:105
+msgid "Update Project Sector"
+msgstr ""
+
+#: ../constructor-custom-post.php:106 ../constructor-custom-post.php:132
+#, fuzzy
+msgid "Add New Project Sector"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:107
+msgid "New Project Sector Name"
+msgstr ""
+
+#: ../constructor-custom-post.php:126
+msgid "Search Project Services"
+msgstr ""
+
+#: ../constructor-custom-post.php:127
+msgid "All Project Services"
+msgstr ""
+
+#: ../constructor-custom-post.php:128
+msgid "Parent Project Service"
+msgstr ""
+
+#: ../constructor-custom-post.php:129
+msgid "Parent Project Service:"
+msgstr ""
+
+#: ../constructor-custom-post.php:130
+msgid "Edit Project Service"
+msgstr ""
+
+#: ../constructor-custom-post.php:131
+msgid "Update Project Service"
+msgstr ""
+
+#: ../constructor-custom-post.php:133
+msgid "New Project Service Name"
+msgstr ""
+
+#: ../constructor-custom-post.php:158
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../constructor-custom-post.php:159
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../constructor-custom-post.php:160
+msgid "New Testimonial"
+msgstr ""
+
+#: ../constructor-custom-post.php:161
+msgid "View Testimonial"
+msgstr ""
+
+#: ../constructor-custom-post.php:162
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../constructor-custom-post.php:163
+msgid "No Testimonial found"
+msgstr ""
+
+#: ../constructor-custom-post.php:164
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: ../constructor-custom-post.php:186
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:187
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:188
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:189
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: ../constructor-custom-post.php:190
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:191
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:192
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:193
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../constructor-custom-post.php:218
+#, fuzzy
+msgid "Add New Client"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:219
+msgid "Edit Client"
+msgstr ""
+
+#: ../constructor-custom-post.php:220
+msgid "New Client"
+msgstr ""
+
+#: ../constructor-custom-post.php:221
+msgid "View Client"
+msgstr ""
+
+#: ../constructor-custom-post.php:222
+msgid "Search Client"
+msgstr ""
+
+#: ../constructor-custom-post.php:223
+msgid "No Client found"
+msgstr ""
+
+#: ../constructor-custom-post.php:224
+msgid "No Client found in Trash"
+msgstr ""
+
+#: ../constructor-custom-post.php:246
+msgid "Search Client Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:247
+msgid "All Client Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:248
+#, fuzzy
+msgid "Parent Client Category"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:249
+msgid "Parent Client Category:"
+msgstr ""
+
+#: ../constructor-custom-post.php:250
+#, fuzzy
+msgid "Edit Client Category"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:251
+#, fuzzy
+msgid "Update Client Category"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:252
+#, fuzzy
+msgid "Add New Client Category"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:253
+#, fuzzy
+msgid "New Client Category Name"
+msgstr "Add New Gallery"
+
+#: ../constructor-custom-post.php:277
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../constructor-custom-post.php:278
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../constructor-custom-post.php:279
+msgid "New Team Member"
+msgstr ""
+
+#: ../constructor-custom-post.php:280
+msgid "View Team Member"
+msgstr ""
+
+#: ../constructor-custom-post.php:281
+msgid "Search Team Members"
+msgstr ""
+
+#: ../constructor-custom-post.php:282
+msgid "No Team Member found"
+msgstr ""
+
+#: ../constructor-custom-post.php:283
+msgid "No Team Member found in Trash"
+msgstr ""
+
+#: ../constructor-custom-post.php:305
+msgid "Team Service Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:306
+msgid "All Team Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:307
+msgid "Parent Team Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:308
+msgid "Parent Team Category:"
+msgstr ""
+
+#: ../constructor-custom-post.php:309
+msgid "Edit Team Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:310
+msgid "Update Team Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:311
+msgid "Add New Team Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:312
+msgid "New Team Category Name"
+msgstr ""
+
+#: ../constructor-custom-post.php:336
+msgid "Add New Pricing"
+msgstr ""
+
+#: ../constructor-custom-post.php:337
+msgid "Edit Pricing"
+msgstr ""
+
+#: ../constructor-custom-post.php:338
+msgid "New Pricing"
+msgstr ""
+
+#: ../constructor-custom-post.php:339
+msgid "View Pricing"
+msgstr ""
+
+#: ../constructor-custom-post.php:340
+msgid "Search Pricings"
+msgstr ""
+
+#: ../constructor-custom-post.php:341
+msgid "No Pricing found"
+msgstr ""
+
+#: ../constructor-custom-post.php:342
+msgid "No Pricing found in Trash"
+msgstr ""
+
+#: ../constructor-custom-post.php:364
+msgid "Pricing Service Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:365
+msgid "All Pricing Categories"
+msgstr ""
+
+#: ../constructor-custom-post.php:366
+msgid "Parent Pricing Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:367
+msgid "Parent Pricing Category:"
+msgstr ""
+
+#: ../constructor-custom-post.php:368
+msgid "Edit Pricing Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:369
+msgid "Update Pricing Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:370
+msgid "Add New Pricing Category"
+msgstr ""
+
+#: ../constructor-custom-post.php:371
+msgid "New Pricing Category Name"
+msgstr ""
+
+#: ../constructor-custom-post.php:392
+msgid "Thumbnail"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3132 ../tg-contentbuilder.php:3160
+#: ../tg-contentbuilder.php:3187
+msgid "In"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4876 ../tg-contentbuilder.php:4877
+#: ../tg-contentbuilder.php:5118 ../tg-contentbuilder.php:5119
+msgid "Name *"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4884 ../tg-contentbuilder.php:4885
+#: ../tg-contentbuilder.php:5126 ../tg-contentbuilder.php:5127
+msgid "Email *"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4892 ../tg-contentbuilder.php:4893
+#: ../tg-contentbuilder.php:5134 ../tg-contentbuilder.php:5135
+msgid "Message *"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4900 ../tg-contentbuilder.php:4901
+#: ../tg-contentbuilder.php:5142 ../tg-contentbuilder.php:5143
+msgid "Address"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4908 ../tg-contentbuilder.php:4909
+#: ../tg-contentbuilder.php:5150 ../tg-contentbuilder.php:5151
+msgid "Phone"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4916 ../tg-contentbuilder.php:4917
+#: ../tg-contentbuilder.php:5158 ../tg-contentbuilder.php:5159
+msgid "Mobile"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4924 ../tg-contentbuilder.php:4925
+#: ../tg-contentbuilder.php:5166 ../tg-contentbuilder.php:5167
+msgid "Company Name"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4932 ../tg-contentbuilder.php:4933
+#: ../tg-contentbuilder.php:5174 ../tg-contentbuilder.php:5175
+msgid "Country"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4962 ../tg-contentbuilder.php:5204
+msgid "Send"
+msgstr ""
+
+#: ../tg-shortcode.php:263
+msgid "Share On"
+msgstr ""
+
+#: ../tg-shortcode.php:757 ../tg-shortcode.php:817 ../tg-shortcode.php:2744
+msgid ""
+"Empty gallery item. Please make sure you have upload image to it or check "
+"the short code."
+msgstr ""
+
+#: ../tg-shortcode.php:1194 ../tg-shortcode.php:1471
+msgid ""
+"Empty portfolio item. Please make sure you have created portfolio item or "
+"check the short code."
+msgstr ""
+
+#: ../tg-shortcode.php:1260
+msgid "All"
+msgstr ""
+
+#: ../tg-shortcode.php:2036
+msgid "Go to top"
+msgstr ""
+
+#: ../tg-shortcode.php:2152
+msgid "Follow"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:58
+msgid "Gallery Images"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:100
+msgid "Allowed Files"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:123
+msgid "Upload Image"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:124
+msgid "Delete All Images"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:131
+msgid "Remove"
+msgstr "Remove"
+
+#, fuzzy
+#~ msgid "Leave A Reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"
